@@ -79,4 +79,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
 
-Created by [Your Name]
+Created by [the-tech-bro](github.com/the-tech-bro)
